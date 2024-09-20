@@ -18,7 +18,7 @@
 </p>
 <p align="center">
     <a href="https://echnoureddine.netlify.app" target="_blank">
-    <img src="repo_images/landing.png"></img>
+    <img src="repo_images/home_page.png"></img>
   </a>
 </p>
 
