@@ -26,16 +26,16 @@ export default function Greeting(props) {
                 <Typewriter
                   onInit={(typewriter) => {
                     typewriter
-                      .typeString("Data Scientist(NLP)")
+                      .typeString("Data Scientist")
                       .pauseFor(200)
                       .deleteAll()
-                      .typeString("Web Developer")
+                      .typeString("Machine Learning Engineer")
                       .pauseFor(200)
                       .deleteAll()
-                      .typeString("UI/UX Designer")
+                      .typeString("MLOps Engineer")
                       .pauseFor(200)
                       .deleteAll()
-                      .typeString("IT Engineer")
+                      .typeString("Cloud Architect")
                       .pauseFor(200)
                       .start();
                   }}
@@ -53,8 +53,8 @@ export default function Greeting(props) {
                   who thrives to{" "}
                   <mark data-entity="verb">leverage Startups</mark> using
                   AI-based solutions along with{" "}
-                  <mark data-entity="skill">Web Development</mark> and a blend
-                  of <mark data-entity="freelance">UI/UX Designing</mark>
+                  <mark data-entity="skill">MLOps</mark> and a blend
+                  of <mark data-entity="freelance">Cloud architecting</mark>
                 </div>
               </span>
               <CompetitiveSites logos={competitiveSites.competitiveSites} />
