@@ -9,7 +9,7 @@ import ReactGA from "react-ga";
 function App() {
   useEffect(() => {
     // Change this below tracking id to your own
-    // ReactGA.initialize("G-QY6NG5LPMP");
+    ReactGA.initialize("G-QY6NG5LPMP");
   });
   return (
     <ThemeProvider theme={chosenTheme}>
