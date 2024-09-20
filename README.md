@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
     <img src="repo_images/banner-01.png" align="center"></img>
 </p>
 
@@ -17,7 +17,7 @@
   <a href="https://ashutoshhathidara.com/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
 </p>
-<p align="center"> 
+<p align="center">
     <a href="https://rohankokkula.netlify.app" target="_blank">
     <img src="repo_images/landing.PNG"></img>
   </a>
@@ -30,7 +30,7 @@
 ✔️ Projects\
 ✔️ Contact\
 <br>
-To view a live example, **[click here](https://rohankokkula.netlify.app/)**
+To view a live example, **[click here](https://echnoureddine.netlify.app/)**
 
 # Clone And Use 📋
 
@@ -39,10 +39,10 @@ To view a live example, **[click here](https://rohankokkula.netlify.app/)**
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   - ```python
-     git clone https://github.com/rohankokkula/datasciencefolio.git
+     git clone https://github.com/nour3467/datasciencefolio.git
     ```
   - This will clone the whole repository in your system.
-- `nvm use` to use the project's v12 node version so you don't have to see millions of node module errors :) 
+- `nvm use` to use the project's v12 node version so you don't have to see millions of node module errors :)
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
   - ```python
     npm install
@@ -80,8 +80,8 @@ If you want to play around with alignment or CSS, the specific component's css i
 
 So basically I demonstrated 2 types of visual graphics.
 - Animated graphics([lottiefiles](https://lottiefiles.com/))
-  - In order to use your own animated graphics, 
-    - go to [lottiefiles](https://lottiefiles.com/) 
+  - In order to use your own animated graphics,
+    - go to [lottiefiles](https://lottiefiles.com/)
     - search your favourite lottie(animation)
     - Download the `JSON` version of animated file
     - Now you can import this into any of the desired container/component using
@@ -100,7 +100,7 @@ So basically I demonstrated 2 types of visual graphics.
         return (
           <div className="App">
             <div className="container" ref={container}></div>
-          </div>);} 
+          </div>);}
       ```
     - here, `banner.json` is your downloaded animated file
 
@@ -125,7 +125,7 @@ So basically I demonstrated 2 types of visual graphics.
 
 ### Splash Logo
 
-Note here that if you click [my portfolio](https://rohankokkula.netlify.app), you can see the logo at the beginning. 
+Note here that if you click [my portfolio](https://echnoureddine.netlify.app), you can see the logo at the beginning.
 
   - You can open `src/portfolio.js` file and at the top of this file you will see `settings` component as below:
   - ```python
@@ -155,7 +155,7 @@ Note: Do not use Firefox Browser for testing the ID. Use Chrome instead.
 
 - Once you are done with your setup and have successfully completed all steps above, you need to put your website online!
 - I highly recommend using [Netlify](https://www.netlify.com/) to achieve this the EASIEST WAY.
-- To deploy your website, you need to follow 2 steps. 
+- To deploy your website, you need to follow 2 steps.
     -   First you need to create a github repository and push all the files excluding node_modules(automatically ignored by .gitignore)
     -   setup account at netlify & complete the login/signup process
     -   Now, click on `New site from Git` and connect it with your github account
