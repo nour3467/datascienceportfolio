@@ -21,7 +21,7 @@ const greeting = {
   title: "Hey there!",
   sub: "Noureddine ECH.",
   logo_name: "Noureddine ECH-CHOUKY",
-  resumeLink: "https://drive.google.com/file/d/1GR_pK7jPMHpIGthSYdMCe2YgSTrbbXc_/view?usp=drive_link",
+  resumeLink: "https://drive.google.com/file/d/1FMCDQ3tgi_GrbUwD2sx17aq8vYcO9l1c/view?usp=drive_link",
 };
 
 
